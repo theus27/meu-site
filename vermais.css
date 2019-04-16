@@ -1,0 +1,29 @@
+img{
+    float: left;
+    display: block;
+    width: 444px; height: 270px; display: block
+}
+
+h1{
+   
+color:white;
+text-align: center;
+background:  #8f2faf;
+height: 70px;
+margin:0
+
+
+}
+nav a{
+    text-decoration-color: #bd0e0e;
+
+
+}
+
+@media screen and (min-width: 768px) {
+    nav{
+        
+        flex-direction: row;
+        justify-content: space-around;
+ }
+}
